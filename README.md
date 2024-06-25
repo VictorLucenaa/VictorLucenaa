@@ -1,6 +1,6 @@
 <h1>Olá!👋</h1>
 
-Me chamo Victor Lucena e sou um desenvolvedor de Software apaixonado por criar aplicações web. Meu primeiro contato com programação foi através da linguagem JAVA, onde desenvolvi uma base sólida em programação orientada a objetos e algoritmos. No entanto, minha verdadeira paixão sempre foi a criação de designs e interfaces que cativam os usuários, o que me levou a focar em desenvolvimento front-end. Atualmente estou cursando Engenharia de Software, para aprofundar meu conhecimento na área.
+Me chamo Victor Lucena e sou um desenvolvedor de Software apaixonado por criar aplicações web. Meu primeiro contato com programação foi através da linguagem JAVA, onde desenvolvi uma base sólida em programação orientada a objetos e algoritmos. Atualmente estou cursando Engenharia de Software, para aprofundar meu conhecimento na área.
 
 <h2>Contato</h2>
 
